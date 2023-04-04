@@ -1,2 +1,2 @@
 # Inspire
-First repository to study usage of GitHub and create simple projects.
+First repository to get to know GitHub and create simple projects.
